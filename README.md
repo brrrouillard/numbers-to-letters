@@ -5,7 +5,7 @@
 Any web browser.
 
 ### Installing and Running
-Launch index.html.
+Launch [index.html](https://brrrouillard.github.io/numbers-to-letters/).
 
 ## Purpose
 I built these webpages during my internship at BeCode. The goal was to make a small script which would return the letters version of a given number.
